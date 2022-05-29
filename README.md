@@ -38,6 +38,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-edson-fernandes-cabral-filho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/edson-fernandes-cabral-filho-851902158/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/edson-fernandes-cabral-filho-851902158/))
-[![Gmail Badge](https://img.shields.io/badge/-eddson.cabral@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/Edx0n))
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/edson-fernandes-cabral-filho-851902158/)
+[![Gmail Badge](https://img.shields.io/badge/-eddson.cabral@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:eddson.cabral@gmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Edx0n)
