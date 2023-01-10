@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edx0n&label=Profile%20views&color=0e75b6&style=flat" alt="edx0n" /> </p>
 
-I’m currently working on **Qyon**
+I’m currently working at **Qyon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
