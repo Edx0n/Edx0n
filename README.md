@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Sistemas de Informação na PUC-Campinas
-- 💼 &nbsp; Trabalhando como Desenvolvedor Front-End Jr. na DMX Design
+- 💼 &nbsp; Trabalhando como Desenvolvedor Front-End Jr. na Qyon Sistemas Inteligentes
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
