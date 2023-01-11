@@ -3,7 +3,7 @@
 
 I’m currently working at **Qyon** as a Jr. Front-End Developer and also graduating in Analysis and Systems Development on **Pontifical Catholic University of Campinas** a.k.a PUC-Campinas
 <br>
-<p> I'm always looking to improve my knowledges in the all of the technologies that i'm have contact on. </p>
+<p> I'm always looking to improve my knowledges in all of the technologies that i'm have contact on. </p>
 
 
 <h3 align="left">Connect with me:</h3>
