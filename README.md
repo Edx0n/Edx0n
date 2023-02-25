@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edx0n&label=Profile%20views&color=0e75b6&style=flat" alt="edx0n" background-color: "puerple"/> </p>
 
 
-I’m currently working at **Qyon** as a Jr. Front-End Developer and also graduating in Analysis and Systems Development on **Pontifical Catholic University of Campinas** a.k.a PUC-Campinas
+I’m currently working at **Qyon** as a Jr. Front-End Developer and also graduating in Analysis and Systems Development on **Pontifical Catholic University of Campinas** a.k.a PUC-Campinas.
 <br>
 <p> I'm always looking to improve my knowledges in all of the technologies that i'm have contact on. </p>
 
