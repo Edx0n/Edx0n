@@ -1,1 +1,1 @@
-[![GitHub Profile Languages](https://ionicabizau.github.io/github-profile-languages/api?user=edx0n)](https://ionicabizau.github.io/github-profile-languages/?user=edx0n)
+[![Top Langs](https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=edx0n&layout=donut&theme=merko)](https://github.com/Edx0n)
